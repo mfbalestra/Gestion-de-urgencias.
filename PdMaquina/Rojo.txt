@@ -1,0 +1,11 @@
+Nombre: MarcoApellido: BalestraDNI: 39397586Edad: 23Hora de llegada: 13:45Hora de atencion: 15:40Nombre: RodrigoApellido: AmayaDNI: 25974093Edad: 33Hora de llegada: 14:50Hora de atencion: 15:20Nombre: CarlosApellido: ZapataDNI: 32578905Edad: 29Hora de llegada: 15:30Hora de atencion: 19:30Nombre: MarcoApellido: BalestraDNI: 39397586Edad: 23Hora de llegada: 13:45Hora de atencion: 15:40Nombre: RodrigoApellido: AmayaDNI: 25974093Edad: 33Hora de llegada: 14:50Hora de atencion: 15:20Nombre: CarlosApellido: ZapataDNI: 32578905Edad: 29Hora de llegada: 15:30Hora de atencion: 19:30Nombre: MarcoApellido: BalestraDNI: 39397586Edad: 23Hora de llegada: 13:45Hora de atencion: 13:46Nombre: RodrigoApellido: AmayaDNI: 25974093Edad: 33Hora de llegada: 14:50Hora de atencion: 14:55Nombre: Lucas
+Apellido: Lucero
+DNI: 42
+Edad: 30
+Hora de llegada: 12:30
+Hora de atencion: 12:35
+Nombre: A
+Apellido: A
+DNI: 1
+Hora de llegada: 13:25
+Hora de atencion: 14:0

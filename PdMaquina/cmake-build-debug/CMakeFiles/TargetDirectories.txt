@@ -1,0 +1,3 @@
+D:/Repositorio/GDrive/Programacion I/Practico de Maquina/PdMaquina/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Repositorio/GDrive/Programacion I/Practico de Maquina/PdMaquina/cmake-build-debug/CMakeFiles/PdMaquina.dir
+D:/Repositorio/GDrive/Programacion I/Practico de Maquina/PdMaquina/cmake-build-debug/CMakeFiles/edit_cache.dir

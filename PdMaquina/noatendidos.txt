@@ -1,0 +1,8 @@
+Nombre: Carlos
+Apellido: Zapata
+DNI: 32578905
+Edad: 29
+Mutual: Dospu
+Hora de llegada: 15:30
+Hora de atencion: 24:0
+Nivel de urgencia: Rojo

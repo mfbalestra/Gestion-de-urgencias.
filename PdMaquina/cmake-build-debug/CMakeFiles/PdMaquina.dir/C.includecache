@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Repositorio/GDrive/Programacion I/Practico de Maquina/PdMaquina/Paciente.h
+malloc.h
+-
+string.h
+-
+
+D:/Repositorio/GDrive/Programacion I/Practico de Maquina/PdMaquina/lista_paciente.h
+malloc.h
+-
+
+D:/Repositorio/GDrive/Programacion I/Practico de Maquina/PdMaquina/lista_prioridad.h
+malloc.h
+-
+
+D:/Repositorio/GDrive/Programacion I/Practico de Maquina/PdMaquina/main.c
+stdio.h
+-
+stdlib.h
+-
+Paciente.h
+D:/Repositorio/GDrive/Programacion I/Practico de Maquina/PdMaquina/Paciente.h
+lista_prioridad.h
+D:/Repositorio/GDrive/Programacion I/Practico de Maquina/PdMaquina/lista_prioridad.h
+lista_paciente.h
+D:/Repositorio/GDrive/Programacion I/Practico de Maquina/PdMaquina/lista_paciente.h
+locale.h
+-
+

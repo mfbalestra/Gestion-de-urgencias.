@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1572469347 source:c:\users\tomarquilite\desktop\facultad\programacion i\practico de maquina\pdmaquina\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista_prioridad.h"
+
+1572469843 c:\users\tomarquilite\desktop\facultad\programacion i\practico de maquina\pdmaquina\lista_prioridad.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"paciente.h"
+
+1572469864 c:\users\tomarquilite\desktop\facultad\programacion i\practico de maquina\pdmaquina\paciente.h
+	<malloc.h>
+	<string.h>
+
